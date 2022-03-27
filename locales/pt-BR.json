@@ -53,7 +53,7 @@
       "currency": "Moeda",
       "language": "Idioma",
       "account": "Minha conta",
-      "login": "Entrar / Criar conta",
+      "login": "Entrar \/ Criar conta",
       "welcome": "Olá {{first_name}}",
       "cart": "Carrinho"
     },
