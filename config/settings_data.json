@@ -139,7 +139,7 @@
       "announcement-bar": {
         "type": "announcement-bar",
         "settings": {
-          "show_announcement": true,
+          "show_announcement": false,
           "background": "#fece48",
           "text_color": "#ffffff",
           "text": "Frete grátis para todo Brasil",
